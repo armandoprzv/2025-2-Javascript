@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const { ask } = require('../helpers/input');
 
 async function main()
@@ -18,3 +19,16 @@ async function main()
 
 }
 main()
+=======
+// 🏠 Práctica para casa:
+// Contar cuántos de una lista de edades pueden votar
+//
+// Instrucciones:
+// Crea un arreglo de edades (pedirlo al usuario).
+//
+// Recorre el arreglo.
+//
+// Cuenta cuántos tienen 18 años o más.
+//
+// Muestra el total.
+>>>>>>> dbdcf3d7fc64d45a55172709744d551ecf68d32c

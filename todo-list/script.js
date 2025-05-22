@@ -17,8 +17,11 @@ function addTask() {
   }
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dbdcf3d7fc64d45a55172709744d551ecf68d32c
 function deleteTask(btn) {
   btn.closest("li").remove();
 }
